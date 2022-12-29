@@ -32,7 +32,6 @@ Allows you to display the items on the server with their quantity from the inven
 And display items and their quantity from the json file.
 
 * 3 ~
-
 Allows you to display the number of all registered players who are in the players dictionary and the same functions from the text file responsible for storing player data.
 
 * 4 ~
