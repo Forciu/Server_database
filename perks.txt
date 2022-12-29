@@ -1,0 +1,5 @@
+arrow: 1000
+dagger: 1001
+rope: 1002
+torch: 1003
+gold: 1004
